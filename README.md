@@ -23,6 +23,6 @@ Fandango is an online movie ratings aggregator. It displays a 5-star rating syst
 
 The distribution of displayed ratings is clearly shifted to the right compared to the actual rating distribution, suggesting strongly that Fandango inflates the ratings under the hood.
 
-Fandango's officials replied that the biased rounding off was caused by a bug in their system rather than being intentional, and they promised to fix the bug as soon as possible. Presumably, this has already happened, although we can't tell for sure since the actual rating value doesn't seem to be displayed anymore in the pages' HTML.
+Fandango's officials replied that the biased rounding off was caused by a bug in their system and not intentional, and they promised to fix the bug as soon as possible.
 
 In this project, we analyze more recent movie ratings data to determine whether there has been any change in Fandango's rating system after Hickey's analysis.
